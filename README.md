@@ -74,7 +74,7 @@ Provide non negative odd integer below 100: 11
 *** End of user input time, 1 minute complete ***
 
 *** OLD ARRAY ***
-3 5 7 9 11
+\n3 5 7 9 11
 
 *** NEW ARRAY ***
 0 0 1 0 1 0 1 0 1 0 1

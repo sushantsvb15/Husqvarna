@@ -55,7 +55,7 @@ void create_arr_from_inp(   const unsigned int *input_arr,
     }
 
     // Print the New array
-    printf("\n\n*** New Array ***\n");
+    printf("\n\n*** NEW ARRAY ***\n");
     for(int i = 0; i < max_val + 1; ++i)
     {
         printf("%c ", arr[i]);
@@ -183,7 +183,7 @@ int main(void)
 
     input_count = get_user_input(usr_input_arr);
 
-    printf("\n*** Old Array ***\n");
+    printf("\n*** OLD ARRAY ***\n");
     int i = 0;
     while (i < input_count)
     {

@@ -52,7 +52,9 @@ Provide non negative odd integer below 100: -1
 !!! Wrong input, number beyond permitted limits !!!
 
 Provide non negative odd integer below 100: a
+
 Invalid input. Please enter a valid number.
+
 Provide non negative odd integer below 100: 20
 
 !!! Wrong input, Number needs to be odd number !!!

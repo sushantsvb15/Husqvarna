@@ -33,9 +33,11 @@
   *** End of user input time, 1 minute complete ***
   
   *** Old Array ***
+  
   3 5 7 9 1 19 13 21 11 17
   
   *** New Array ***
+  
   1 0 1 0 1 0 1 0 1 0 1 0 1 0 0 0 1 0 1 0 1
 
   # EXAMPLE OUTPUT WITH WRONG INPUTS

@@ -40,7 +40,7 @@
 
   # EXAMPLE OUTPUT WITH WRONG INPUTS
 
-    *** Input non negative odd integers every 5 seconds till 1 minute,
+*** Input non negative odd integers every 5 seconds till 1 minute,
     provide single number at a time ***
 
 Provide non negative odd integer below 100: 0
